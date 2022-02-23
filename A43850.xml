@@ -1,0 +1,1599 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Iter Lusitanicum, or, The Portugal voyage with what memorable passages interven'd at the shipping, and in the transportation of her Most Sacred Majesty Katherine, Queen of Great Britain, from Lisbon, to England, exactly observed by him that was eye-witnesse of the same, who though he publish this, conceals his name / by S.H. ...</title>
+            <author>Hinde, Samuel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 55 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43850</idno>
+            <idno type="STC">Wing H2058</idno>
+            <idno type="STC">ESTC R20099</idno>
+            <idno type="EEBO-CITATION">12443518</idno>
+            <idno type="OCLC">ocm 12443518</idno>
+            <idno type="VID">62161</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43850)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 62161)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 942:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Iter Lusitanicum, or, The Portugal voyage with what memorable passages interven'd at the shipping, and in the transportation of her Most Sacred Majesty Katherine, Queen of Great Britain, from Lisbon, to England, exactly observed by him that was eye-witnesse of the same, who though he publish this, conceals his name / by S.H. ...</title>
+                  <author>Hinde, Samuel.</author>
+               </titleStmt>
+               <extent>41 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by S. Griffin, for Robert Paulett ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>In verse.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catherine, --  of Braganza, Queen, consort of Charles II, King of England, 1638-1705.</term>
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:62161:1" rendition="simple:additions"/>
+            <p>
+               <hi>ITER L<g ref="char:V">Ʋ</g>SIT ANIC<g ref="char:V">Ʋ</g>M;</hi> OR, The Portugal Voyage.</p>
+            <p>With what memorable Paſſages inter<g ref="char:EOLhyphen"/>ven'd at the Shipping, and in the Tranſportation of her moſt Sacred Majeſty <hi>KATHERINE,</hi> Queen of <hi>Great Britain,</hi> from <hi>LISBON,</hi> to <hi>ENGLAND.</hi>
+            </p>
+            <p>Exactly obſerved</p>
+            <q>
+               <l>
+                  <hi>By him that was Eye-witneſſe of the ſame,</hi>
+               </l>
+               <l>
+                  <hi>Who though he publiſh this, conceals his name.</hi>
+               </l>
+            </q>
+            <q>
+               <l>Plus valet unus oculatus teſtis</l>
+               <l>Quam mille auriti. <bibl>Aug.</bibl>
+               </l>
+            </q>
+            <q>
+               <l>
+                  <hi>Carmina ſeceſſum; ſcribentis &amp; otia quaerunt;</hi>
+               </l>
+               <l>
+                  <hi>me mare, me venti, me fera jactat hyems.</hi>
+               </l>
+            </q>
+            <q>
+               <l>Verſes ask time, and leiſure, but I'me toſt</l>
+               <l>With windes, and waves, and with cold winters blaſt.</l>
+               <bibl>By <hi>S. H.</hi> a Coſmopolite.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>S. Griffin,</hi> for <hi>Robert Paulett</hi> at the Signe of the Bible in <hi>Chancery-Lane,</hi> neer the <hi>Inner-Temple</hi> Gate, 1662.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:62161:2"/>
+            <pb facs="tcp:62161:2"/>
+            <head>TO THE KING, His Moſt Sacred, and moſt Excellent MAJESTY.</head>
+            <l>PArdon, Great Sir, this forwardneſs of mine,</l>
+            <l>Pardon each rude, and indigeſted line.</l>
+            <l>I am no Poet, Sir, nor Poets Son,</l>
+            <l>Tis ſeldome, I ere look towards <hi>Helicon.</hi>
+            </l>
+            <l>The Eminencies that in them are known,</l>
+            <l>Except their Povertie I muſt diſown;</l>
+            <l>And't was my Loyalty, and not my Wit,</l>
+            <l>As Poet, that hath ſtill occaſion'd it.</l>
+            <l>Here; as it was incumbent every day,</l>
+            <l>I could not, <hi>Flamen</hi> like, but Sing and Pray.</l>
+            <l>
+               <hi>Iliads,</hi> and <hi>Odyſs',</hi> trouble, and Triumph too,</l>
+            <l>Of your Great Queen, Great Sir, I offer you.</l>
+            <l>I thought it my alleageance for to tell</l>
+            <l>What accidents within our Voyage fell.</l>
+            <pb facs="tcp:62161:3"/>
+            <l> To me 'twas Antidote againſt the harms</l>
+            <l>We fear'd, or felt, among the dreadfull Stormes.</l>
+            <l>Tis now an offering; your Majeſtick Frown</l>
+            <l>May mak't a burnt one, then I'm quite undone.</l>
+            <l>That would aſtoniſh and appale me more,</l>
+            <l>Then all the Horrours of the Sea before.</l>
+            <l>But 'tis your gratious Candour I doe ſue,</l>
+            <l>Which is both Patronage, and pardon too.</l>
+            <l>Graunt it, Great Sir, to him, who nere knew how</l>
+            <l>To merit the leaſt wrinkle, from your brow.</l>
+            <l>Send from the Chancery of your Royal Breſt,</l>
+            <l>Your Royal pardon, my <hi>Quietus eſt.</hi>
+            </l>
+            <closer>
+               <signed>Your Majeſties moſt humble Ser<g ref="char:EOLhyphen"/>vant, Subject, and Suppliant, S. H.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:62161:3"/>
+            <head>A La Sereniſsima y muy Poderoſa Reyna la Reyna de la <hi>Gran Britainia, Francia,</hi> y <hi>IRLANDA,</hi> &amp;c.</head>
+            <opener>
+               <salute>Sereniſſima Reyna,</salute>
+            </opener>
+            <p>YA que honrado he ſido, con aver eſtado enſervi<g ref="char:EOLhyphen"/>endo a V. M.<hi rend="sup">tad</hi>, en el Carlos Royal; he dado a ſa<g ref="char:EOLhyphen"/>ber al' mundo, las amargas yervas con que Comió V. M.<hi rend="sup">tad</hi> las paſcuas ſobre el atlantico. en que recuénto, eſtan acompan<g ref="char:cmbAbbrStroke">̄</g>ados, otros memorables ſuceſos, que Comprehenden, las ſumptuoſas ſolenidades (en <hi>Lisboa</hi>), de la partida de V. M<hi rend="sup">tad</hi>; y por amor de Orden y metodo, los he fundado en la lustreſa de los Glorioſos, y hechos muy famo<g ref="char:EOLhyphen"/>ſes de los antepaſados, de V. M<hi rend="sup">tad</hi>; que primeramente ſcalaron El monte de Avila, y en progreſſo, con ſus armas valeroſas ſe die<g ref="char:EOLhyphen"/>ron ſer, abſolutos duenos del India Oriental y del poniente, ſo<g ref="char:EOLhyphen"/>bre ciudades infinitas, fortalezas y rios, Algunos de ellos ſaliendo del Paraiſo.</p>
+            <p>La vendicion de la Reyna del Zur, ſea la de V. M<hi rend="sup">tad</hi>! en el gozamiento, aſi de la ſaviduria, como la perſona del nueſtro <hi>Sa<g ref="char:EOLhyphen"/>lomon</hi> bendito: ſea V. M<hi rend="sup">tad</hi> Como la vin<g ref="char:cmbAbbrStroke">̄</g>a frutifera, naciendo por los paredes de ſu Caſa! Sea ſu Caſa un Castillo impregna<g ref="char:EOLhyphen"/>ble! ſempre bien Compueſta ſin algun emfado eſtranxero! Sea ſu primogenito de V. M<hi rend="sup">tad</hi>, el mas alto de los reyes de la tierra, que aſi en continuo reza.</p>
+            <closer>
+               <salute>Seraniſſima Reyna</salute>
+               <signed>
+                  <hi>El muy humilde y muy fiel Criado y rezante de V. M<hi rend="sup">tad</hi>.</hi> S. H.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:62161:4"/>
+            <head>TO THE Moſt Serene and powerfull Queen, the Queen of <hi>Great Britain, France,</hi> and <hi>IRELAND,</hi> &amp;c.</head>
+            <p>HAving had the honour to attend your Majeſty in the Royal-<hi>Charles,</hi> I have here let the world know with what bitter herbs your Majeſtie did eat your Paſs-over through the <hi>Atlantick</hi> Sea; which relation is accompanied with other memorable paſſages that take in the pompous ſolemnities of your departure from <hi>Lisbon:</hi> and being a friend to Method, and Order, have layd the Foundation thereof in the ſplendor of your glorious and renowned Aunceſtors; who firſt climb'd up Mount <hi>Avila,</hi> and in proceſs of time with their victorious armies made themſelves abſolute Lords over the ORientall and Occidentall Indies, over many Cities, Fortifications, and famous Rivers, ſome of which take their riſe from <hi>Pa<g ref="char:EOLhyphen"/>radiſe.</hi>
+            </p>
+            <p>The bleſſing of the Queen of the South be ever on you, in the enjoyment both of the wiſdome and perſon of our gracious <hi>Solomon.</hi> May you be like a fruitfull Vine by the ſides of his houſe; and may his houſe be an unvanquiſha<g ref="char:EOLhyphen"/>ble Fort againſt all <hi>Aſſaylants;</hi> Let it never be diſordered by any Forrein Inveſion, or Domeſtick Treaſon. May your Firſt-born be higher then the Kings of the Earth. This is the conſtant prayer of</p>
+            <closer>
+               <salute>Moſt Serene Queen</salute>
+               <signed>Your moſt humble, and moſt faithfull Subject, and Servant <hi>S. H.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:62161:4"/>
+            <head>THE APOLOGY, TO THE READER.</head>
+            <lg>
+               <l>EIght hundred leagues, ſhort of <hi>Parnaſſus</hi> Mount,</l>
+               <l>My ſlumbring <hi>Muſe,</hi> awakt, which made account</l>
+               <l>T'indulge her ſelfe in ſilence; ſince ſhe h'as flowne</l>
+               <l>O're th'yawning Waves, and Seas, to <hi>Helicon,</hi>
+               </l>
+               <l>And dipt her fluttering wings; returns again,</l>
+               <l>Meets me oth' Coaſts of <hi>Portugall</hi> and <hi>Spain.</hi>
+               </l>
+               <l>Thence ſhe retires to <hi>England,</hi> where ſhe Roves:</l>
+               <l>Amongſt the <hi>Lawrel, Thickets,</hi> and the <hi>Groves</hi>
+               </l>
+               <l>Declaring in the following numbers, when</l>
+               <l>And where, and how King <hi>John</hi> got's Crown again,</l>
+               <l>Relating no Romance, but what was ſeen,</l>
+               <l>In the tranſporting of Great <hi>Britaines</hi> Queen.</l>
+               <l>Preſuming neither more then to begin,</l>
+               <l>And jangle, to get better Ringers in.</l>
+               <l>Reſolving after this ner'e to be ſeen</l>
+               <l>Or ſhew her ſelfe, on the <hi>Pierian Green.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Cenſure not too ſeverely theſe of mine;</l>
+               <l>Or write thy ſelf, that I may cenſure thine.</l>
+            </lg>
+            <bibl>
+               <hi>S. H.</hi>
+            </bibl>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:62161:5"/>
+            <head>THE ALARUM, TO The <hi>SPANIARD.</hi>
+            </head>
+            <lg>
+               <l>IT is decreed! nor can thy tottering Fate,</l>
+               <l>O <hi>Spain,</hi> reſiſt the <hi>Luſitanian</hi> State;</l>
+               <l>Though Enſignes, Enſignes, Armies, Armies meet,</l>
+               <l>And in dire Thunder Cannons Cannons Greet;</l>
+               <l>They'l reach the topmoſt Jewel in thy Crown,</l>
+               <l>And Place a Bend in thy Eſcutchion.</l>
+               <l>Sixty two years, in <hi>Triumph,</hi> thou haſt ſway'd</l>
+               <l>Their Scepter, to a Rod of Iron made.</l>
+               <l>Thy Yoak was heavy and their Bondage more.</l>
+               <l>Then the <hi>Sicilian</hi> Tyrants us'd before.<note place="margin">
+                     <gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ve<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>i <gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ent<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>.</note>
+               </l>
+               <l>Neer nine times ſeven years Vaſſallage they knew</l>
+               <l>Bidding all Rights, and Liberties adieu.</l>
+               <l>But the Grand-climacterick-year being come,</l>
+               <l>It put a period to their Martyrdome,</l>
+               <l>And Tropick to thy Tyranny and rage,</l>
+               <l>Confining thee unto ſome other ſtage;</l>
+               <l>To Act thy bloody Scenes, as to their woe</l>
+               <l>Th' haſt done 'ith <hi>Indies,</hi> and at <hi>Mexico.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Maugre all Rancor, now it is decreed</l>
+               <l>To take thy turn, either to bend or bleed.</l>
+            </lg>
+            <div type="part">
+               <pb facs="tcp:62161:5"/>
+               <head>The Battle.</head>
+               <l>BUt what was gain'd by <hi>Philip</hi> th' Second, then</l>
+               <l>By <hi>John</hi> the Fourth was reaſſum'd again;</l>
+               <l>Their Lawes, their Freedom, Priviledge, and Crowne,</l>
+               <l>By his ſucceſſefull ſword were made their own.</l>
+               <l>That <hi>John,</hi> whoſe Anceſtors in open field</l>
+               <l>Conquer'd five Kings, and made their Armies yield;</l>
+               <l>Leſt <hi>Spain</hi> ſhould plead Preſcription, thought it beſt</l>
+               <l>To Send th' Uſurper his <hi>Quietu<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> eſt.</hi>
+               </l>
+               <l>What more did the Old <hi>Patriarch</hi> before<note place="margin">Ab<gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </note>
+               </l>
+               <l>In Conquering of <hi>Chedor-Laomer,</hi>
+               </l>
+               <l>And's Murnivall of Kings, on <hi>Sodoms</hi> Plain?</l>
+               <l>Then he, to get, and keep, his Crown again.</l>
+               <l>Nay! Rather leſſe, he vanquiſht four, in all,</l>
+               <l>King <hi>John</hi> Triumphs o're ſix, in <hi>Portugall.</hi>
+               </l>
+               <l>Thus Old * <hi>
+                     <g ref="char:V">Ʋ</g>liſſiſion</hi> they did regain,<note place="margin">Liſb<gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> 
+                     <gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ly e<gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> 
+                     <gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ſion, <gap reason="illegible: page cropped" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>liſſes <gap reason="illegible: page cropped" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> it w<gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> 
+                     <gap reason="illegible: page cropped" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> his t<gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Trav<gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </note>
+               </l>
+               <l>Firſt, from five Kings of <hi>Moores;</hi> and now from <hi>Spain.</hi>
+               </l>
+               <l>Both in <hi>December,</hi> both the very day</l>
+               <l>Of the ſame Moneth, they bore the Palm away.</l>
+            </div>
+            <div type="part">
+               <head>The Conqueſt.</head>
+               <l>THE News, <hi>Torpedo</hi>-like,<note place="margin">Con<gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> 
+                     <hi>riz</hi> 
+                     <gap reason="illegible: page cropped" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> new <gap reason="illegible: page cropped" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> King <gap reason="illegible: page cropped" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                     <hi>La<gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> 'Las</hi> 
+                     <gap reason="illegible: page cropped" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> i. e. <gap reason="illegible: page cropped" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> for I<gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </note> benum'd the Senſe</l>
+               <l>Of <hi>Spain,</hi> with its Narcotick influence</l>
+               <l>Quite Chang'd the hue of <hi>Olivarez</hi> Face</l>
+               <pb facs="tcp:62161:6"/>
+               <l> For all his Counterſeit <hi>Albricias:</hi>
+               </l>
+               <l>Amaz'd the Inhabitants from whom 'twas gon,</l>
+               <l>Like lightning, beyond the Banks of <hi>Rubicon:</hi>
+               </l>
+               <l>Two Kingdomes in one Morning to fall off,</l>
+               <l>May make the King to ſigh, though th' Count <hi>Olivarez</hi> ſcoff.</l>
+               <l>Such feathers from the Auſtrian Eagles wing,</l>
+               <l>With ſuch dependencies, both Kingdoms bring,</l>
+               <l>'Ith Eaſt, and Weſtern Indies; in the Iſles,</l>
+               <l>
+                  <hi>Tercera,</hi> and <hi>Medera;</hi> in <hi>Braſile,</hi>
+                  <note place="margin">
+                     <gap reason="illegible: page cropped" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> to <gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>rbe</note>
+               </l>
+               <l>In <hi>Congo, Angola, Manac, Azarim,</hi>
+               </l>
+               <l>
+                  <hi>Mombaza, Mozambick,</hi> and <hi>Agazim.</hi>
+                  <note place="margin">
+                     <gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>m to. <gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>gitur <gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ndo.</note>
+               </l>
+               <l>Whole Cities, Countries, Nations did fall,</l>
+               <l>Throughout the World, to'th Lot of <hi>Portugall,</hi>
+               </l>
+               <l>And can <hi>Spain</hi> leſſe then tremble, ſigh, and groan,</l>
+               <l>To ſee ſuch <hi>Prodrom's</hi> of Confuſion,</l>
+               <l>Ruine approaching, and the People hurl'd</l>
+               <l>Into diſtraction, through the ſpatious world?</l>
+               <l>But as the victories at <hi>Marathon</hi>
+               </l>
+               <l>did prove a Sabbath to the <hi>Athenian.</hi>
+               </l>
+               <l>So what was loſt by <hi>Spain,</hi> did prove to be</l>
+               <l>T'<hi>Algarues,</hi>
+                  <note place="margin">
+                     <gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ra <gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>be<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> 
+                     <gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>cu<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> in <gap reason="illegible: page cropped" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>yn <gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>l<gap reason="illegible: page cropped" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the <gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>he</note> and <hi>Portugal,</hi> a Jubilee.</l>
+            </div>
+            <div type="part">
+               <head>The Triumph.</head>
+               <l>THy <hi>Ne plus ultra</hi> now is ſtreach't as faire</l>
+               <l>As <hi>Ana,</hi> from the Streights of <hi>Gibraltar.</hi>
+               </l>
+               <l>The <hi>Thebans,</hi>
+                  <note place="margin">
+                     <gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>er Cu<gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> 
+                     <gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>tn<gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </note>
+                  <hi>Pillars</hi> that of old did ſtand,</l>
+               <l>As Bondaryes, on this, and the <hi>Africk</hi> Land,</l>
+               <pb facs="tcp:62161:6"/>
+               <l> Are now tranſplanted to the Indies, where</l>
+               <l>They 'have found a ſtation in each Hemiſphere.</l>
+               <l>From eaſt to weſt, from <hi>Goa</hi> to <hi>Braſile,</hi>
+               </l>
+               <l>The Spanyard fled before the Spaniſh ſteel.</l>
+               <l>Before that Sword, which only brandiſht ſtood</l>
+               <l>Not bath'd, nor drench'd, like his, i'th adverſe blood!</l>
+               <l>Rather than kill, King <hi>John</hi> ſays, let't ſuffice,</l>
+               <l>To drive away theſe birds from th' ſacrifice.</l>
+               <l>Though they have miſchief upon miſchief pil'd,</l>
+               <l>Wee'l ſtrike the Serpent, but wee'l ſpare the Child.</l>
+               <l>Remove the <hi>Spanyard,</hi> and reſtore the Crown,</l>
+               <l>To whom 'tis due by right ſucceſſion.</l>
+               <l>Thus <hi>Aſhur</hi>-like, the conquering Prince thought good,</l>
+               <l>Rather to ſwin in Oyle, than wade in Blood:</l>
+               <l>One onely Sacrifice, or two at moſt,</l>
+               <l>Appeas'd the King, and ſatisfied his hoſt;</l>
+               <l>Twas not his glory, for to gulge, but taſte</l>
+               <l>The <hi>Spaniſh</hi> blood, for all their Furies paſt.</l>
+               <l>One of that Nation, <hi>Vaſconzello's</hi> Fall,</l>
+               <l>
+                  <hi>Spains</hi> Secretary, ſerv'd to attone them all.</l>
+            </div>
+            <div type="part">
+               <head>The Propoſall of Marriage.</head>
+               <l>FIve Luſtres are well nigh accompliſht,<note place="margin">A <gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ſt<gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> years</note> ſince</l>
+               <l>
+                  <hi>Lisbon</hi> ha's triumpht in her Native Prince.</l>
+               <l>For ſixteen years King <hi>John</hi> the Scepter ſwayd,</l>
+               <l>Now in the Sepulchre of 's Fathers laid:</l>
+               <l>The Crown upon <hi>Alphonſo</hi> th'ſixth is come,</l>
+               <pb facs="tcp:62161:7"/>
+               <l> And with it all his vaſt Dominion.</l>
+               <l>Now 'tis the care, and intereſt of all,</l>
+               <l>But o'th <hi>Queen-Regent</hi> moſt of <hi>Portugal,</hi>
+               </l>
+               <l>To match the only Daughter of the King,</l>
+               <l>From whom ſome Royal Cyons ſoon may ſpring.</l>
+               <l>That Queen, whoſe memory ſhould be enrol'd</l>
+               <l>'Mongſt greateſt Princes, and in lines of Gold,</l>
+               <l>Diſpatches her Embaſſadour away</l>
+               <l>To <hi>Englands</hi> King, and then keeps <hi>Holy-day.</hi>
+               </l>
+            </div>
+            <div type="part">
+               <head>The publication of the Banes.</head>
+               <l>THe Banes between two Kingdomes, publiſht, run;</l>
+               <l>B<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rn by the wings of Fame through <hi>Chriſtendome.</hi>
+               </l>
+               <l>Twixt <hi>Englands</hi> Monarch, and th' <hi>Infanta,</hi> there,</l>
+               <l>The ſole Intelligence that moves that Sphere.</l>
+               <l>
+                  <hi>Englands</hi> Firſt borne; King <hi>Charles,</hi> the Exil'd Son</l>
+               <l>By Miracle reſtor'd to his Fathers Throne.</l>
+               <l>And <hi>Donna Katherina,</hi> who may boaſt</l>
+               <l>A change as wonderfull upon that coaſt.</l>
+               <l>Great <hi>Charles,</hi> to whom all <hi>Chriſtendome</hi> gives place,</l>
+               <l>And Royall <hi>Katherine,</hi> of <hi>Braganza</hi>'s race,</l>
+               <l>Conſult their Auguries,<note place="margin">
+                     <gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ſpo<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>dore <gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>e.</note> and you'l ſinde both gain</l>
+               <l>Their Crowns, like ſpoyls of <hi>Salmacis,</hi> again.</l>
+               <l>One to Inſulting Regicides gives Laws,</l>
+               <l>Th' other from Spaniſh yoak the neck with-draws.</l>
+            </div>
+            <div type="part">
+               <pb facs="tcp:62161:7"/>
+               <head>The Match compleated.</head>
+               <l>SEe! See! the Illuſtrious paire of Princes greet!</l>
+               <l>Who in affection and in Fortune meet;</l>
+               <l>Heavens <hi>Arbiter,</hi> in Hymeneal-bands,</l>
+               <l>H'as joynd theſe Princes hearts before their hands.<note place="margin">Quo<gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> junx<gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> j<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nx<gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </note>
+               </l>
+               <l>No Sea muſt ſunder thoſe whom Love conjoynes;</l>
+               <l>No time muſt ravel what great <hi>Hymen</hi> twines.</l>
+               <l>
+                  <hi>Tagus</hi> or'e flows her Banks; the Curled Maine</l>
+               <l>Sends out great tydes t' attend our Soveraigne.</l>
+               <l>
+                  <hi>Neptune</hi> reſignes his Trident, <hi>Venus</hi> ſwayes</l>
+               <l>No more; its <hi>Englands</hi> Empreſſe rules the Seas.</l>
+               <l>The Royal <hi>Charles,</hi> proud of her Princely Bride,</l>
+               <l>With ſeverall gallant Squadrons, by her ſide,</l>
+               <l>Attends the motion, as her Convoy home,</l>
+               <l>Where three Crowns more are added to her own.</l>
+               <l>The Voyce of Joy, and Gladneſſe, now are ſeen</l>
+               <l>To fill the Palaces of King and Queen.</l>
+               <l>Nor was't the hand of Mortal man (alas)</l>
+               <l>But Gods right Arm, that brought it all to paſs.</l>
+            </div>
+            <div type="part">
+               <head>To His Excellency, the Earle of <hi>Sandwich.</hi>
+               </head>
+               <lg>
+                  <l>HEaven's was the work, yet in theſe Royal Scenes</l>
+                  <l>The Supream Agent's pleas'd to work by meanes.</l>
+                  <l>
+                     <hi>Angels</hi> have joyn'd their hearts, and now their hands</l>
+                  <pb facs="tcp:62161:8"/>
+                  <l> By men muſt be conjoynd in Wedlock bands.</l>
+                  <l>The management of which affair was due</l>
+                  <l>To none alive (Lord <hi>Mountagn</hi>) but you:</l>
+                  <l>You that by th' Sea in th Royal <hi>Charles</hi> did bring</l>
+                  <l>The Royall <hi>Charles,</hi> Great <hi>Britaines</hi> welcome King,</l>
+                  <l>From Heaven by Sea and Land are ſtill employ'd</l>
+                  <l>To Bring unto King <hi>Charls,</hi> King <hi>Charls</hi> his Bride.</l>
+                  <l>Your Grandeur, as Ambaſſador, is ſeen,</l>
+                  <l>In your attendance on great <hi>Britaines</hi> Queen.</l>
+                  <l>At every Audience, the Grandees ſtand,</l>
+                  <l>In you t' admire the Glory of our Land;</l>
+                  <l>Your perſon ſplendent. and your numerous Train,</l>
+                  <l>Dazling all eyes, of <hi>Portugal,</hi> and <hi>Spain;</hi>
+                  </l>
+                  <l>Firſt, on the ſpacious River which of old</l>
+                  <l>In Chronicle was fam'd for Sands of Gold:</l>
+                  <l>Next on the thronged Shore,<note place="margin">
+                        <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ena</note> where millions ſtood</l>
+                  <l>T' attend your Landing, from the Rapid flood.</l>
+                  <l>Then, then the antient Prophecies were Crown'd</l>
+                  <l>And ſtore of Gold on <hi>Tagus</hi> Banks was found,</l>
+               </lg>
+               <lg>
+                  <l>It was laſt Summer, Sir, when you began</l>
+                  <l>To Catechiſe the bold <hi>Mahometan,</hi>
+                  </l>
+                  <l>And now your active Soul's ready, we ſee,</l>
+                  <l>In <hi>England</hi> to Create a Jubilee.</l>
+                  <l>
+                     <hi>Euope,</hi> and <hi>Africke</hi> too, do ſound your fame,</l>
+                  <l>To <hi>Europs</hi> glory, and to <hi>Africks</hi> ſhame.</l>
+                  <l>Poſterity, in Volumes ſhall declare</l>
+                  <l>What your atcheivements were, what your Trophies are</l>
+                  <pb facs="tcp:62161:8"/>
+                  <l> What's done within the Streights, what more,</l>
+                  <l>Was ſpoke in thunder from the <hi>Tangier</hi> ſhore.</l>
+                  <l>What memorable ſervices were done</l>
+                  <l>By your great prudence to our Nation.</l>
+                  <l>The <hi>Spaniards</hi> ſaid, when that great work was done,</l>
+                  <l>you'd laid a padlock on all Chriſtendome.</l>
+                  <l>Others were heard (of Eminence and note,)</l>
+                  <l>To ſay, you'd now the <hi>Spaniard</hi> by the throat,</l>
+                  <l>The <hi>Hogen Mogens</hi> hearts did fry and burn,</l>
+                  <l>To be ſo nigh, and miſs ſo good a turn.</l>
+                  <l>Thus through the Temple of Virtue you have paſt</l>
+                  <l>To th' Temple of Honour and Renown at laſt.</l>
+                  <l>All your appearances at <hi>Court, Aboard,</hi>
+                  </l>
+                  <l>In the greateſt ſplendor Sea, or Land afford:</l>
+                  <l>Two <hi>Nations,</hi> being at Conteſt, each who ſhall</l>
+                  <l>Load, with moſt dignities, our <hi>Generall.</hi>
+                  </l>
+                  <l>Such Honours has your Excellence, who brings</l>
+                  <l>The beſt of <hi>Conſorts</hi> to the beſt of <hi>Kings.</hi>
+                  </l>
+                  <l>Thus to be Fam'd, and known, by one, and all.</l>
+                  <l>
+                     <hi>Englands</hi> Ambaſſador and <hi>Admirall.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>The Valediction between the Queen of <hi>England</hi> and the Queen of <hi>Portugall.</hi>
+               </head>
+               <lg>
+                  <l>THe affaires of State, and ceremony, paſt,</l>
+                  <l>The parting, and the farewell, comes at laſt.</l>
+                  <l>The King, both Queens, with all their Glorious traine.</l>
+                  <l>Doe Solemnly appear in Court again.</l>
+                  <pb facs="tcp:62161:9"/>
+                  <l> Here they receive his Excellence; and he</l>
+                  <l>From them receives her Sacred Majeſtie:</l>
+                  <l>So rich, ſo ſplendid, that you might have told</l>
+                  <l>Whole rocks of Diamond, in Mines of Gold.</l>
+               </lg>
+               <lg>
+                  <l>Here the two Queens took leave, but in ſuch ſort</l>
+                  <l>As with amazement fill'd the thronged Court.</l>
+                  <l>Their carriage more then maſculine. No tear</l>
+                  <l>From either of their Majeſties appear.</l>
+                  <l>Art conquer'd Nature; State, and Reaſon ſtood</l>
+                  <l>Like two great Conſuls, to reſtrain the Flood</l>
+                  <l>Of paſſion and affection; which, nere th' leſs,</l>
+                  <l>Appear'd in ſad, but prudent comelineſs.</l>
+                  <l>Majeſtie acted, as Dictator here:</l>
+                  <l>And as Lord Paramount in's proper ſphere.</l>
+                  <l>Bearing the ſway, and ſole dominion</l>
+                  <l>Of Art, Love, Reaſon, Nature, Paſſion.</l>
+                  <l>Light ſorrows finde a vent, from Great ones riſe</l>
+                  <l>A damp that ſtops the ſluces of the Eyes.</l>
+               </lg>
+               <lg>
+                  <l>A Scene ſo ſolemn, that the ſtanders by,</l>
+                  <l>Both Lords and Ladies, did that want ſupply.</l>
+                  <l>In this great concourſe, every one appears,</l>
+                  <l>Paying a tribute to them, but in tears.</l>
+                  <l>Thus were they dry, like <hi>Gideons</hi> fleece; when round</l>
+                  <l>About the ſpacious Court was watry ground.</l>
+                  <l>And they that conquer Kings, and kingdoms too,</l>
+                  <l>Shew how themſelves, themſelves can conquer now.</l>
+                  <l>It is not <hi>Caeſar,</hi> or <hi>Miltiades</hi>
+                  </l>
+                  <pb facs="tcp:62161:9"/>
+                  <l> Can boaſt of Trophees, adequate to theſe.</l>
+                  <l>Since they, that govern Paſſion, triumph more</l>
+                  <l>Then they that conquer Kingdomes o're and o're.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>Her Majeſtie Ship'd on St. <hi>George</hi> his day.</head>
+               <lg>
+                  <l>SAint <hi>George</hi> was this day mounted in ſuch ſtate,</l>
+                  <l>He fear'd no Dragon; and could finde no mate.</l>
+                  <l>This day ſurmounted other Feaſts as far</l>
+                  <l>As any Feſtivall i'th Calendar</l>
+                  <l>Does other dayes; The <hi>Portugeſes</hi> vaunt,</l>
+                  <l>St. <hi>George</hi> their Guardian, and tutelar Saint.</l>
+                  <l>St. <hi>George</hi> for <hi>England</hi> too, the <hi>Engliſh</hi> cry!<note place="margin">Apr <hi>Stilo</hi>
+                     </note>
+                  </l>
+                  <l>Though perhaps neither knows the reaſon why.</l>
+                  <l>This was th' allotted, and th' appointed day</l>
+                  <l>The Queen firſt took poſſeſſion of the Sea.</l>
+                  <l>
+                     <hi>England</hi> and <hi>Portugal</hi> were then made one,</l>
+                  <l>After a ſtately, grave Proceſſion.</l>
+                  <l>The Churches viſited, the Offrings layd</l>
+                  <l>On th' Altars, and all due Devotion paid.</l>
+                  <l>The People throng'd in multitudes, to ſee</l>
+                  <l>Their King, and our great Queen in Majeſty.</l>
+                  <l>Houſes were out o'th windows hurl'd, th' array</l>
+                  <l>That in Imbroyderies, and Velvets lay,</l>
+                  <l>And coffin'd up for many years before,</l>
+                  <l>By all conſents were turned out of door.</l>
+                  <l>Thouſands of houſes, and vaſt pillars told,</l>
+                  <l>Array d with Damasks, Silks, and cloths of Gold.</l>
+                  <pb facs="tcp:62161:10"/>
+                  <l> All Streets adorn'd, triumphant Arches fram'd;</l>
+                  <l>In all rich Furniture as can be nam'd.</l>
+               </lg>
+               <lg>
+                  <l>Thus paſs'd the <hi>King</hi> with all his Royal train,</l>
+                  <l>Conducting the <hi>INFANTA</hi> to the Main.</l>
+                  <l>Thus <hi>Englands</hi> Repreſentative,<note place="margin">
+                        <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>arl of <hi>
+                           <gap reason="illegible: page cropped" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>ch</hi> 
+                        <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>el<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                     </note> we ſee</l>
+                  <l>Attend, receive, conduct her Majeſtie:</l>
+                  <l>And as great <hi>Trajan</hi> triumph'd once in <hi>Rome,</hi>
+                  </l>
+                  <l>In Effigie:<note place="margin">
+                        <gap reason="illegible: page cropped" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> oculi <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>de<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                     </note> So they, that hither come</l>
+                  <l>Our Great King <hi>Charles</hi> in <hi>Lisbon</hi> ſtreets might ſee</l>
+                  <l>Triumphant with his Queen in Majeſtie.</l>
+                  <l>The Robes, and Royal Enſignes he put on</l>
+                  <l>I'th ſolemn day of's Coronation.</l>
+                  <l>He in his Princely Portraiture, and ſhe</l>
+                  <l>Both in her Perſon, and her Effigie.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>From the Proceſſion to the Royall Gallery.</head>
+               <l>DOwn from the City, to the Sea they come</l>
+               <l>Into th' Kings Gallery, a glorious Room:</l>
+               <l>And ſuch, as they of <hi>Lisbon</hi> have not known</l>
+               <l>To ſpeak the ſplendour of that Nation.</l>
+               <l>So <hi>Xerxes</hi> fetter'd up the <hi>Helleſpont</hi>
+               </l>
+               <l>With's bridge of boats; He, and his Army on't.</l>
+               <l>As the Grear King <hi>Alfonſo,</hi> here, we ſee,</l>
+               <l>O're <hi>Tagus</hi> rears a ſtately Gallery;</l>
+               <l>(Barges and boats were numberleſs) which ſtood</l>
+               <l>To bridle up the raging of the Flood:</l>
+               <pb facs="tcp:62161:10"/>
+               <l> And make a Royal paſſage for the King,</l>
+               <l>For <hi>Englands</hi> Queen, and for what Nobles, bring</l>
+               <l>Their Majeſties aboard the Royal-<hi>Charles:</hi>
+               </l>
+               <l>
+                  <hi>Dons, Condies,</hi> Marqueſſes, with Dukes and Earls.</l>
+               <l>Ladies and Lords ſan's number, with a train</l>
+               <l>Would blear the eyes, or break the heart of <hi>Spain.</hi>
+               </l>
+               <l>Thus link'd, and chain'd together now we ſtand,</l>
+               <l>As if the Sea were married to the Land.</l>
+               <l>And thus of two, both Nations were made one</l>
+               <l>In this arrival, and conjunction.</l>
+            </div>
+            <div type="part">
+               <head>The Queen comes aboard.</head>
+               <l>ANd thus in Princely Equipage ſhe comes</l>
+               <l>Into her gloriouſly Embelliſh'd Rooms,</l>
+               <l>Where <hi>Perſia, India, Italy</hi> have ſent</l>
+               <l>As tribute, both for uſe and ORnament,</l>
+               <l>Such Riches, and ſuch Furnitur as flow</l>
+               <l>OR from <hi>Bezaleel's</hi> loom, or mines below;</l>
+               <l>Made by the curious Artiſts, to ſet forth</l>
+               <l>Their matchleſs skill, and the Queens matchleſs worth:</l>
+               <l>Her royall Cabin, and her State-room too</l>
+               <l>Adorn'd with Gold, and lin'd with Velvet through.</l>
+               <l>The cuſhions, ſtools and chairs, and clothes of State</l>
+               <l>All of the ſame materials, and rate.</l>
+               <l>The bed made for her Majeſtics repoſe,</l>
+               <l>White as the Lily, red as <hi>Sharons</hi> Roſe,</l>
+               <l>For colour, coſt, and candour may compare</l>
+               <pb facs="tcp:62161:11"/>
+               <l> With what in Hiſtorie we finde moſt rare.</l>
+               <l>
+                  <hi>Egypt,</hi> nor Iſles of <hi>Chittim</hi> have not ſeen,</l>
+               <l>Such rich imbroderies, or ſuch a Queen.</l>
+               <l>Windowes with <hi>Taffataes,</hi> and <hi>Damaſk</hi> hung;</l>
+               <l>While Coſtly Carpets on the Floors are flung.</l>
+               <l>Regions of Perfumes, Clouds of incenſe hurl'd,</l>
+               <l>In every roome of this our little World.</l>
+               <l>Here ſhee begins her Progreſs; comes a board;</l>
+               <l>Turnes <hi>Voyager</hi> to greet her Greateſt Lord,</l>
+               <l>The Royal <hi>Charles</hi> by Sea and Land ſhee'l take,</l>
+               <l>Both for her <hi>Zenith,</hi> and her <hi>Zodiake.</hi>
+               </l>
+            </div>
+            <div type="part">
+               <head>Her Majesties welcome Aboard.</head>
+               <l>WElcom'd ſhe was in thunder, while the ſhore</l>
+               <l>By King <hi>Alfonſo's</hi> Order ſtrives t' out-roare</l>
+               <l>Our Cannon, and our Culverin, which fly,</l>
+               <l>And Fill the Land, the Waters, and the Sky.</l>
+               <l>Give fire the Captaines cry, and Quick tis gone</l>
+               <l>Beyond the <hi>Axis</hi> of the <hi>Horizon.</hi>
+               </l>
+               <l>Lightning and Thunder from each Oaken ſide</l>
+               <l>Proclaimes the welcome of our Royal Bride.</l>
+               <l>Such Thunder bolts, and ſuch Granadoes fly</l>
+               <l>From Stem to Stern, from waters to the Sky</l>
+               <l>Between his Caſtles, and our floating Iſles.</l>
+               <l>Th' amz'd In habitants for many miles,</l>
+               <l>Surpriz d with wonder,<note place="margin">
+                     <gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>arting</note> Gaz'd, and thought it ſtrange</l>
+               <l>Earths Centre reeld no<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, at the Inter-change.</l>
+            </div>
+            <div type="part">
+               <pb facs="tcp:62161:11"/>
+               <head>St. <hi>Georges</hi> Night.</head>
+               <lg>
+                  <l>THus has the day been ſolemniz'd by all;</l>
+                  <l>But tis the night muſt Crown the Feſtivall.</l>
+                  <l>Then, then, Dame Nature had Convulſion fits,</l>
+                  <l>And to keep up the Revels, loſt her wits.</l>
+                  <l>The Sea was all on fire, and people came,</l>
+                  <l>In ſhoales like Fiſhes, to behold the flame.</l>
+                  <l>The Great Pavilion of Condenſed Clouds</l>
+                  <l>Had now no other light but from the ſhrouds.</l>
+                  <l>The <hi>Starres</hi> like images of <hi>Jupiter</hi> fell down,</l>
+                  <l>And Fixt a while i'th watry Region:</l>
+                  <l>As if the <hi>Virgins,</hi> or <hi>Ariadnes</hi> Crowne,</l>
+                  <l>To Court the Queen had here deſcended down,</l>
+                  <l>All leſſer lights, as Homagers were ſent,</l>
+                  <l>To pay this duty in their Element.</l>
+                  <l>The luſtre of the night darkned the day,</l>
+                  <l>Dampt the bright girdle of <hi>Andromeda.</hi>
+                  </l>
+                  <l>Nor could the fam'd <hi>Caſſiope</hi> preſume</l>
+                  <l>Among theſe dazeling Tapers, to a Room.</l>
+                  <l>Thus <hi>Iſraell</hi>-like we gly'd into th' Sea,</l>
+                  <l>Pillar'd with Fire by night, and Clouds by day.</l>
+                  <l>The antient Story of old <hi>Argos</hi> eyes,</l>
+                  <l>In Cannons mouthes you might <hi>Mythologize.</hi>
+                  </l>
+                  <l>From Earth, and Waters, Light, and Fire, were ſent</l>
+                  <l>In Blazing Comets to the Firmament.</l>
+                  <pb facs="tcp:62161:12"/>
+                  <l> Balls of conſuming Wild-fire here were hurl'd,</l>
+                  <l>Like to quick Fire drakes through the liquid world.</l>
+                  <l>The lights of heaven were darkn'd, the pale Moon</l>
+                  <l>Pull'd in her horns, to ſee her ſelf out-done.</l>
+                  <l>Each Ship a globe of glory did appear;</l>
+                  <l>Each light a fixed Star in's <hi>Hemiſphere.</hi>
+                  </l>
+                  <l>That that had leaſt had moſt;<note place="margin">
+                        <gap reason="illegible: page cropped" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>?</note> for there the Queen,</l>
+                  <l>Queen-Regent of th'new Firmament was ſeen.</l>
+                  <l>
+                     <hi>Charles</hi> Wain was here predominant, and theſe</l>
+                  <l>Great lights below, dar'd the <hi>Antipodes.</hi>
+                  </l>
+                  <l>City, and Sea were gilded with the ſhine</l>
+                  <l>That overſpread them both in this deſigne.</l>
+                  <l>Thoſe Engines blaz'd with flames, which juſt before</l>
+                  <l>Roar'd out in Thunder to th' aſtoniſht ſhore.</l>
+                  <l>The Hulls, the Maſts, the Cordage, and the Tyre</l>
+                  <l>Of thoſe <hi>Boanergeſes</hi> ſeem'd all on fire</l>
+                  <l>And yet no noiſe nor harm; what did appear</l>
+                  <l>Was fitted to the <hi>Eye,</hi> and not <hi>Eare.</hi>
+                  </l>
+                  <l>To pleaſe the Queen. the <hi>Elements</hi> conſpire,</l>
+                  <l>That of the Earth, the Waters, and the Fire.</l>
+               </lg>
+               <lg>
+                  <l>Oh for an Aye ry Wagoner, whoſe prayer</l>
+                  <l>
+                     <hi>Elias</hi>-like,<note place="margin">
+                        <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>s <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ì, <gap reason="illegible: page cropped" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>.</note> may now command the Ayre.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>The KINGS laſt Farewel.</head>
+               <l>THe winde was wholly contrary that day,</l>
+               <l>All which in viſiting was paſs'd away.</l>
+               <pb facs="tcp:62161:12"/>
+               <l> But then, when <hi>Morpheus</hi> had clos'd up moſt eyes,</l>
+               <l>And nights black Curtains were drawn o're the Skyes;</l>
+               <l>Down comes the King in's Royal Barge, amain</l>
+               <l>
+                  <hi>Incognito!</hi> with his harmonious train:</l>
+               <l>To ſing his Siſters Farewell, which was done,</l>
+               <l>To Extaſie, and Admiration.</l>
+               <l>Under our gilded Galleries he floats,</l>
+               <l>And there they advance their moſt melodious throats</l>
+               <l>In ſeverall Sonnets, which the Artiſt calls</l>
+               <l>Epithalamions, Carols, Madrigals.</l>
+               <l>
+                  <hi>Thalia</hi> to the Queen did here impart</l>
+               <l>What skill in Muſick lay, and what in Art.</l>
+               <l>What comes from Inſtruments, what from the throats,</l>
+               <l>Well warbl'd out in ſweet-dividing Notes.</l>
+               <l>The vocall Muſick that we heard this Night,</l>
+               <l>Had in't the Quinteſcence of all delight.</l>
+               <l>Here was the true <hi>Arion,</hi> who they ſay,</l>
+               <l>Made <hi>Dolphins</hi> dance, and caper in the Sea</l>
+               <l>Here was the <hi>Orpheus,</hi> and <hi>Amphion</hi> too,</l>
+               <l>That with their Muſick did ſuch wonders do.</l>
+               <l>Layd Charms on man and beaſt, made ſtones to riſe</l>
+               <l>From th'ſullen Earth, and re-ſalute the Skyes.</l>
+               <l>It were a task for <hi>Lanier, Cooke,</hi> or <hi>Lawſe,</hi>
+               </l>
+               <l>To give the merit of it juſt applauſe.</l>
+               <l>I want both Skill and Language to expreſs</l>
+               <l>The order, melody, and comelineſs</l>
+               <l>Of this nights action: But th'approaching day</l>
+               <l>Silenc'd the Muſick, ſent the King away.</l>
+            </div>
+            <div type="part">
+               <pb facs="tcp:62161:13"/>
+               <head>That morning we put to Sea.</head>
+               <lg>
+                  <l>
+                     <hi>HElen,</hi>
+                     <note place="margin">
+                        <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>na, <gap reason="illegible: page cropped" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>. <hi>all</hi>
+                     </note> and <hi>Troy</hi> ne're parted; where the Queen</l>
+                  <l>Was preſent, there the Court was alſo ſeen:</l>
+                  <l>'Tis now a floating in this Royal Arke,</l>
+                  <l>At which the Stars may gaze, and Dogs may bark.</l>
+                  <l>Down to the wombe of moyſture now we fall,</l>
+                  <l>Leaving the Native ſoyl of <hi>Portugall.</hi>
+                  </l>
+                  <l>Where formerly on ſhore we did deſcry</l>
+                  <l>Whole Conſtellations of Nobility</l>
+                  <l>Clouded with ſadneſs, Ladies all in Vails,</l>
+                  <l>E're we weigh'd Anchor, or could hoiſe our Sails.</l>
+               </lg>
+               <lg>
+                  <l>Each man's an <hi>Agamemnon,</hi> as they ſay,</l>
+                  <l>Mourning to part with <hi>Iphigenia.</hi>
+                  </l>
+                  <l>The Ladies farewell to her ſeem'd to be</l>
+                  <l>Sadder then th'parting of <hi>Andromache.</hi>
+                  </l>
+                  <l>Oh! for a <hi>Zeuxis,</hi> or <hi>Aglaophon,</hi>
+                  </l>
+                  <l>To paint their looks at <hi>Lisbon,</hi> now ſhe's gone.</l>
+               </lg>
+               <lg>
+                  <l>Delug'd in ſeas of ſorrow; hear their cryes!</l>
+                  <l>
+                     <hi>Colchos</hi> it ſelfe ne're ſent forth ſuch a Prize!</l>
+                  <l>Great <hi>Englands</hi> Argonaut, that Princes bears,</l>
+                  <l>That widows all our joyes, drowns all our tears.</l>
+                  <l>The Royal <hi>Charles,</hi> in her, ha's ſhipt in more</l>
+                  <l>Than all the <hi>Lisbon</hi> Caracks did before.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:62161:13"/>
+                  <l>Both <hi>Indies</hi> in a trice, where ere ſhe comes,</l>
+                  <l>She out-ballances all Wealth, Perſumes, and Gummes.</l>
+                  <l>
+                     <hi>Tagus</hi> does flow to <hi>Thames,</hi> and now <hi>White-hall</hi>
+                  </l>
+                  <l>H'as found Capacity for <hi>Portugall.</hi>
+                  </l>
+                  <l>
+                     <hi>London</hi> ha's ſwallow'd <hi>Lisbon, Englands</hi> Coaſt</l>
+                  <l>Hath gain'd more from us, then our Conqueſts boaſt.</l>
+               </lg>
+               <lg>
+                  <l>A vertuous <hi>Virgin,</hi> on whoſe cheeks do lie</l>
+                  <l>Concentred Beautie, Grace, and Modeſtie.</l>
+                  <l>A Gracious <hi>Bride,</hi> whoſe meer Intrinſick worth</l>
+                  <l>Runs parallel with what the world brings forth;</l>
+                  <l>A Glorious <hi>Queen,</hi> array'd in Majeſtie,</l>
+                  <l>Mirrour of Vertue, Prudence, Pietie.</l>
+               </lg>
+               <lg>
+                  <l>A Virgin; Bride, and Queen, young, fair and good,</l>
+                  <l>
+                     <hi>Leander</hi>-like attempts the curled Flood,</l>
+                  <l>To court Great <hi>Britains</hi> King, o'th <hi>Britiſh</hi> ſhore,</l>
+                  <l>Waving both <hi>Tagus</hi> and <hi>Pactolus</hi> o're;</l>
+                  <l>Leaving all hopeleſs e're her like to ſee,</l>
+                  <l>Except it come, Great <hi>Charles,</hi> from Her, and Thee!</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>Good Winde <hi>and</hi> Weather.</head>
+               <lg>
+                  <l>ALL Oracles invok't, we launch again,</l>
+                  <l>By Heavens ſafe Conduct, to the Briny-main;</l>
+                  <l>Our Canvas ſwelling with ſuch gentle gales,</l>
+                  <l>As ſtrain no Top-maſts, and yet fill her Sayles.</l>
+                  <l>Our hollow Keels the Ocean do divide,</l>
+                  <l>With all advantages of Winde and Tyde;</l>
+                  <pb facs="tcp:62161:14"/>
+                  <l> Mercies do ſeem to multiply; We find</l>
+                  <l>Fair weather added to the faireſt wind</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>A croſs and contrary Winde.</head>
+               <lg>
+                  <l>THe morn was glorious, but our hopes (Alas!)</l>
+                  <l>Blaſted, and withered, e're the day did paſs:</l>
+                  <l>The wind did alter, and the weather rage,</l>
+                  <l>Both with the angry Element engage.</l>
+                  <l>The Waves did riſe, the Clouds let fall their Rain;</l>
+                  <l>Ships took in Seas, Men pumpt e'm out again,</l>
+                  <l>Nor were we far into the Ocean gone,</l>
+                  <l>But we were croſt with an <hi>Euroclydon;</hi>
+                  </l>
+                  <l>North-eaſt, and turbulent juſt ſuch a one,</l>
+                  <l>As croſt that Veſſel of Election.</l>
+                  <l>He from <hi>Laſea,</hi> we from <hi>Lisbon</hi> came;</l>
+                  <l>Ours had a ſtorms, but his a tempeſts name.</l>
+               </lg>
+               <lg>
+                  <l>The ambitious Waves in curled Billows flye</l>
+                  <l>Rowling themſelves in Mountains to the Skie;<note place="margin">then <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>n <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ains <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>lled <hi>
+                           <gap reason="illegible: page cropped" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>ae; <gap reason="illegible: page cropped" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>a,</hi> 
+                        <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ng <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>an<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                     </note>
+                  </l>
+                  <l>So vaſt, ſo very high, they ſeem'd to ſome</l>
+                  <l>To be the very Mountains of the Moon.</l>
+                  <l>The hollow winds with whiſtling from the Clouds</l>
+                  <l>Strain both the Top-maſt, Main-maſt, Yards, and Shrouds.</l>
+                  <l>The very day was darkneſs, and the night</l>
+                  <l>Preſented nought but horrour to the ſight.</l>
+                  <l>The ſounds of Port and Starbor'd heard before,</l>
+                  <l>Were dwindl'd to Non-near, and ware-no-more.</l>
+                  <l>The Face of Heaven was dreadful; and the noiſe</l>
+                  <l>Of winde, and water drown'd the Saylors cries.</l>
+                  <pb facs="tcp:62161:14"/>
+                  <l>'Larums of vengeance ſounding in our ears,</l>
+                  <l>So lately fill'd with Muſick of the Spheres.</l>
+                  <l>In this Great buſtle 'twixt the Sea, and Storm,</l>
+                  <l>Some had their Main-ſails, ſome their Top-ſails torn.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>The Paſſengers in this Storm.</head>
+               <l>THe Jaw-fall'n Paſſongers could as ſoon ear</l>
+               <l>Morſels o'th Main-maſt, as a meſs of meat.</l>
+               <l>Cordials of Amber, and diſſolved Pearl</l>
+               <l>Would now be Nauſeous to Man and Girle;</l>
+               <l>Doctors and Pothecaries were uſeleſs now,</l>
+               <l>The Sea was Phyſick and Phyſician too.</l>
+               <l>Some it'h Star-chamber, ſome in Cabins lie,</l>
+               <l>Neither had more to do, but winck and die.</l>
+               <l>Ai-ke! cries one, Jeſus! another ſayes,</l>
+               <l>Heres one a curſing, there's another prayes,</l>
+               <l>Here laughs a Saylor, while another cry'd,</l>
+               <l>Hee'd change this great Fiſh-market for <hi>Cheapſide.</hi>
+               </l>
+               <l>The Deck with ſick men covered; ſo that</l>
+               <l>It look't like th' valley of <hi>Jehoſaphat.</hi>
+               </l>
+               <l>Alive, or dead they knew not, like Men ſhot</l>
+               <l>With dreadful Thunder live, but know it not.</l>
+               <l>They who the Storm in darker Cabin's ſpent,</l>
+               <l>Took each his Coffin; and his Monument;</l>
+               <l>Reſolving there to lie, and lie alone,</l>
+               <l>'Till th' Trump ſhould ſound a't Reſurrection.</l>
+            </div>
+            <div type="part">
+               <pb facs="tcp:62161:15"/>
+               <head>A Whale neer the Ship.</head>
+               <l>I'Th mid'ſt of theſe incumbrances, we ſpy'd</l>
+               <l>A Tortuous Leviathan by th' Ships ſide,</l>
+               <l>Who on the Rouling waves did ſport and play,</l>
+               <l>Taking his Paſtime in the troubled Sea.</l>
+               <l>Great ſtore of Porpoſes do here advance</l>
+               <l>Above the Surges: And the Dolphins dance,</l>
+               <l>As if thoſe wonders which i'th deep do lie,</l>
+               <l>Had all been ſhuffl'd into Mutiny.</l>
+               <l>With croſs and adverſe winds for thirteen dayes</l>
+               <l>We rowl and tumble on the fearfull Seas;</l>
+               <l>And paſs our time with very ſmall delight</l>
+               <l>'Mongſt Sons of <hi>Neprune,</hi> and of <hi>Amphitrite.</hi>
+               </l>
+               <l>Each Man turns Votary, his Temple dreſt</l>
+               <l>With Royal wreaths, like great <hi>Apollo's</hi> Prieſt,</l>
+               <l>Praying the Heaven of Heavens propitious be,</l>
+               <l>In the ſafe Conduct of her Majeſty.</l>
+            </div>
+            <div type="part">
+               <head>The Mariners Prayer.</head>
+               <lg>
+                  <l>ILLuſtrious Princeſs, may nor Winde nor Tide,</l>
+                  <l>Croud to diſturb King <hi>Charles</hi> His Royall Bride.</l>
+                  <l>Gentle as breath of Eunuchs be the Gales</l>
+                  <l>That fill and ſwell your large diſtended Sailes:</l>
+                  <l>Now let all ſtorms be crampt; The ſurly wind</l>
+                  <l>That ſtirs <hi>Heſperian</hi> billows be confin'd:</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:62161:15"/>
+                  <l>May never <hi>Aeolus</hi> with boyſterous blaſts</l>
+                  <l>Invade your Canvas Cordage, or your Maſts;</l>
+                  <l>Nor <hi>Thracian Boreas,</hi> whom Poets ſaid,</l>
+                  <l>Too loudly courted the <hi>Erythrean</hi> Maid,</l>
+                  <l>Too ſaucily attempt to ſee you; But ſail on</l>
+                  <l>Free from them all, free from <hi>Euroclydon.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>From all ſtones Billow-gnawn, and waves that roare</l>
+                  <l>Like thoſe upon <hi>Puzzola,</hi> or <hi>Baiae</hi> ſhore;</l>
+                  <l>May never <hi>Remora,</hi> nor <hi>Proſerpine,</hi>
+                  </l>
+                  <l>Nor <hi>Aeacus,</hi> nor <hi>Alceus,</hi> who deſigne</l>
+                  <l>And propheſie hard Sea-adventures, Be</l>
+                  <l>Occaſion'd to foretell your Naufragie;</l>
+                  <l>Leſt while ſuch Deſtiny they ſhould make known,</l>
+                  <l>They blaſt our Kingdomes Glory, and their own.</l>
+               </lg>
+               <lg>
+                  <l>Bleſt by a higher Auſpice, ſtill go view</l>
+                  <l>Your vaſt Dominion, while we joyntly ſue</l>
+                  <l>Your ſafer Convoy through the watry main,</l>
+                  <l>As the return of <hi>Englands</hi> Prayers again,</l>
+                  <l>That He who gave's a King, and him his due,</l>
+                  <l>Would give him all things elſe, in giving You.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Caſtor</hi> and <hi>Pollux</hi> too, who uſe to ſave</l>
+                  <l>The weather-beaten-veſſels from the wave,</l>
+                  <l>With bright <hi>Orions</hi> help, May all cornbine</l>
+                  <l>In Pitch-dark Firmaments moſt bright to ſhine.</l>
+                  <l>That no croſs Conſtellation them undo,</l>
+                  <l>Who bear both <hi>Caeſars</hi> Name, and Fortune too.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:62161:16"/>
+                  <l>But that from South to North we come again</l>
+                  <l>With CHARLES his Bride enthron'd in <hi>Charles</hi> his wain.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>The Queens Courage.</head>
+               <lg>
+                  <l>A Little <hi>Remora</hi> the Ship, they ſay,</l>
+                  <l>Of <hi>Caius</hi> the Emperour did ſtop the way;</l>
+                  <l>But nothing can Retardate <hi>Englands</hi> Bride,</l>
+                  <l>Hinder, or keep her from King <hi>Charles</hi> his ſide.</l>
+                  <l>'Twas not a <hi>Cyclops</hi> that could block the way,</l>
+                  <l>Or keep <hi>
+                        <g ref="char:V">Ʋ</g>lyſſes</hi> from his <hi>Ithaca;</hi>
+                  </l>
+                  <l>The ſight of which he did prefer by odds</l>
+                  <l>Before the Immortalitie o'th gods.</l>
+                  <l>It was not <hi>Heleſpont,</hi> though it divide</l>
+                  <l>The ſhores, from <hi>Seſtos</hi> to <hi>Abydos</hi> ſide,</l>
+                  <l>Could part that Amorous Pair, Th' Ambiguous flowes</l>
+                  <l>Conſpir'd to bring them to their ſweet repoſe.<note place="margin">Le-</note>
+                  </l>
+               </lg>
+               <lg>
+                  <l>So here, while we our conſtant Courſe do ply,</l>
+                  <l>Mounting on Surges ſometimes to the Sky,</l>
+                  <l>As if wee'd climbe the Clouds: Then ſinking fall,</l>
+                  <l>With hollow Waves, as low as loweſt of All.</l>
+                  <l>Seas, like <hi>Ceraunian</hi> Mountains, that do ſwell</l>
+                  <l>As high as Heaven, and fall as low as Hell;</l>
+                  <l>Yet not th' Envellop't Clouds, nor bluſtring Winde,</l>
+                  <l>Nor raging Billowes, though they roar by kind,</l>
+                  <l>Such Reſolution does her Breaſt afford</l>
+                  <l>Can Fright the <hi>Infanta</hi> from her Royal Lord.</l>
+                  <pb facs="tcp:62161:16"/>
+                  <l> All danger ſhe diſdains, o're-looks all harms,</l>
+                  <l>Till ſhe be lodg'd within her Soveraigns Armes.</l>
+                  <l>Caſt up the various hazzards, and you'l ſay,</l>
+                  <l>Th'are more then <hi>Hercules</hi> ran for's <hi>Omphale.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>And yet none more vivaclous then She,</l>
+                  <l>The Pride and Glory of the Companie.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>The reward of Patience.</head>
+               <lg>
+                  <l>THe turbulent <hi>Atlantick</hi> that did roare,</l>
+                  <l>Bellow and bluſter, but the day before,</l>
+                  <l>Appears ſo gently milde, ſo calm to day,</l>
+                  <l>You might well call it the <hi>Pacifick-Sea.</hi>
+                  </l>
+                  <l>The raging Winde was breathleſs; Now no noiſe,</l>
+                  <l>Or from the Surges here, or from the Skies.</l>
+               </lg>
+               <lg>
+                  <l>E're long, twelve Leagues a Watch, the Yeomen cry,</l>
+                  <l>A better Winde ne're blew out of the Sky;</l>
+                  <l>A ſmoother Sea, no man alive can boaſt,</l>
+                  <l>Or fairer Weather on the <hi>Biſcay</hi> Coaſt.</l>
+                  <l>The Sea-ſick Paſſengers that loath'd their meat,</l>
+                  <l>Are readier now for to devour, then eat.</l>
+               </lg>
+               <lg>
+                  <l>And that Ship-Royal, which it'h darkeſt night,</l>
+                  <l>To'th reſt o'th Fleet ſtill bore the Royal Light,<note place="margin">cum Pupp<gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> tuler<gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                     </note>
+                  </l>
+                  <l>In theſe brave Gales has eaſily found the way</l>
+                  <l>To be their Leader through the <hi>Atlantick-Sea.</hi>
+                  </l>
+                  <l>And thus with winged-ſpeed, She plows the Seas</l>
+                  <l>(Like <hi>Atalanta,</hi> and <hi>Hippomanes;</hi>)</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:62161:17"/>
+                  <l>All Arm'd with Zeal: No Golden Apple here</l>
+                  <l>To ſtop the Paſſage of her ſwift Carreire.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>To the Queen.</head>
+               <l>A Main! For <hi>England,</hi> now the Say lors crie,</l>
+               <l>The Royal Standart fluttering in the Skie,</l>
+               <l>Old <hi>Palinurus</hi> to his Compaſs flies,</l>
+               <l>Having no Object now,<note place="margin">
+                     <gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ſ<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>r.</note> but Seas and Skies.</l>
+               <l>Lifting his watchful Eyes, his heart, his hands,</l>
+               <l>The Helmeſmen waiting ſtill his quick commands.</l>
+               <l>The Weather beaten Pilots, who do know;</l>
+               <l>What Oracles, and Tripod's us'd to ſhow,</l>
+               <l>Beſtir themſelves, improve their utmoſt skill</l>
+               <l>To do their duty, and obſerve his will.</l>
+               <l>That ſon of <hi>Neptune,</hi> the Lieutenant ſtands</l>
+               <l>Daring all Weathers, wary in's commands.</l>
+               <l>Maſter and Mates, the Boatſwain, and his crew</l>
+               <l>From ſtem to ſtern, bid eaſe and ſleep adiew;</l>
+               <l>From the Gunner, and his Gang, afore and af't,</l>
+               <l>The reſt o'th Navy are their dutie taught.</l>
+               <l>Silence or Thunder from their Admirall</l>
+               <l>Creates Example here to One and All.</l>
+               <l>Each Mariner t' his ſheats, and Halyards ſtands,</l>
+               <l>Ductile and Pliant to ſupream commands,</l>
+               <l>Reſtleſs and labouring, till their Anchor's laid</l>
+               <l>In <hi>Thames,</hi> Great Queen, which were in <hi>Tagus</hi> weigh'd.</l>
+            </div>
+            <div type="part">
+               <pb facs="tcp:62161:17"/>
+               <head>To the World.</head>
+               <lg>
+                  <l>THe Royal Navie now being put to Sea,</l>
+                  <l>Their Loyalty and Duty for to pay,</l>
+                  <l>Let no bold interruption that can</l>
+                  <l>Bid others ſtand, upon the Ocean,</l>
+                  <l>'Twixt us and th' Horizon, preſume t' appear,</l>
+                  <l>On perill of being ſent to their own ſphere.</l>
+                  <l>Lower your Top-ſails <hi>Dutch-men:</hi> ſtrike amain;</l>
+                  <l>Down with your Flags, proud <hi>Hollander</hi> and <hi>Spain.</hi>
+                  </l>
+                  <l>Let no bold <hi>French</hi>-man dare to come too nigh,</l>
+                  <l>That <hi>Engliſh</hi> Flags or Enſigns can deſcry:</l>
+                  <l>Let all your ſeverall ſquadrons Homage pay</l>
+                  <l>To the great Lord and Lady of the Sea.</l>
+                  <l>To <hi>Englands</hi> Monarch ſtill; now to his Queen;</l>
+                  <l>Let not the thoughts of <hi>Ruben</hi> Intervene.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>England!</hi> thy floating Iſles, thy wooden Walls</l>
+                  <l>Damps the diſcourſe of ten Eſcurials:</l>
+                  <l>A Navy ſo puiſſant ne're was known</l>
+                  <l>To croſs the Seas, ſince Seas knew <hi>Oleron.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>On the Royal <hi>Charles.</hi>
+               </head>
+               <lg>
+                  <l>SHips are Hermophrodites; we call them Men,</l>
+                  <l>
+                     <hi>Charles, James</hi> and <hi>Henry;</hi> At next breath agen,</l>
+                  <l>She's a brave Man of War, here's one for all,</l>
+                  <l>P<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>h the Worlds wonder, and her Admiral.</l>
+                  <pb facs="tcp:62161:18"/>
+                  <l> The Royall <hi>Charles;</hi> The name o'th Faiths Defender,</l>
+                  <l>Admits Expreſſions in a double Gender.</l>
+               </lg>
+               <lg>
+                  <l>No Flegmatick Commander can gainſay</l>
+                  <l>This truth, but in diſcourſe will pa'ſt away.</l>
+                  <l>Bate me this Sea-abſurdity, and then,</l>
+                  <l>He fall to write o'th Royal <hi>Charles</hi> ag'en.</l>
+                  <l>The Worlds ſeven wonders, Time had ſwallow'd down,</l>
+                  <l>Seem to be now diſgorg'd in this alone.</l>
+                  <l>A Ship ſo Large, ſo Gilt, ſo Gun'd, ſo Man'd,</l>
+                  <l>So Arm'd, ſo Fortify'd, as may withſtand</l>
+                  <l>All Oppoſition that may ſeem to come</l>
+                  <l>From any Port or Part of Chriſtendome.</l>
+                  <l>Her Enſigns, Pendants, Streamers and Array,</l>
+                  <l>Richer then th' King of <hi>Tyrus</hi> put to Sea.</l>
+                  <l>Her Trumpets Silver, and her Waſtcloth's round,</l>
+                  <l>Form'd of the deep'ſt-dy'd-Scarlet could be found.</l>
+                  <l>Her high-exalted-Maſts like Towers would ſhake</l>
+                  <l>The loftie <hi>Coloſs</hi> o're the <hi>Rhodian</hi> Lake.</l>
+                  <l>Her Cannons, and her Culverine out-roare,</l>
+                  <l>
+                     <hi>Ferar as Cacodemon</hi> on the ſhore,</l>
+                  <l>And's <hi>Terrae-motus</hi> too; make Sea-Nymphs wonder</l>
+                  <l>To hear them drown with their noyſe noyſe of Thunder;</l>
+                  <l>Which Ecchoing from that ſtupendious Pile,</l>
+                  <l>Would Deave the Deaving Cataracts of <hi>Nile.</hi>
+                  </l>
+                  <l>Her loud-mouth'd-Cannons at each Volley make</l>
+                  <l>Th' amazed Skies to rend, the Earth to quake;</l>
+                  <l>He that were ſtung with a <hi>Tarantula</hi>
+                  </l>
+                  <l>No Doctor needs, but hear them ſing and play,</l>
+                  <pb facs="tcp:62161:18"/>
+                  <l> That makes him danoe, and dancing does moſt ſure</l>
+                  <l>Diſcharge the Poyſon, and compleat the Cure.</l>
+               </lg>
+               <lg>
+                  <l>Were ſuch th' Antagoniſts as made account</l>
+                  <l>To lift up <hi>Pelion</hi> upon <hi>Oſſas</hi> Mount;</l>
+                  <l>Say they were ſtrong as <hi>Tytheus,</hi> or ſtout</l>
+                  <l>As proud <hi>Porphyrion,</hi> or <hi>Rhetus</hi> rout:</l>
+                  <l>She like a Lioneſs to fury bent,</l>
+                  <l>Peace-meal the trembling <hi>Saracen</hi> ſhall rend:</l>
+                  <l>And they ſhall ſoon'ſt who moſt in blood delight</l>
+                  <l>Lay weapons down, admire, but never fight:</l>
+                  <l>When they her Great Artillery eſpy</l>
+                  <l>And <hi>Engliſh</hi> Lions in her Fanes diſcry,</l>
+                  <l>In homage to her Soveraignty ſhall yield,</l>
+                  <l>Forgetful of their Projects, ſword, or ſhield:</l>
+                  <l>And all their numerous Fleets at her command</l>
+                  <l>Their inauſpicious ſquadrons ſhall disband.</l>
+               </lg>
+               <lg>
+                  <l>Paſs through her <hi>Sancta Barbara,</hi> and there</l>
+                  <l>Such horrid, deadly Engines do appear</l>
+                  <l>In ſuch variety, as do declare</l>
+                  <l>What Wit, Invention, and what miſchief are:</l>
+                  <l>Eighty-ſix Piece of Ordnance you may ſee</l>
+                  <l>I'th number of her great Artillery:</l>
+                  <l>And each if levell'd as they do not miſs,</l>
+                  <l>Worſe then the Brazen-Bull of <hi>Phalaris;</hi>
+                  </l>
+                  <l>For other Warlike Inſtruments we ſcore</l>
+                  <l>Of ſeverall ſorts, about a thouſand more.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Gorgon,</hi> the Ship of <hi>Perſeus,</hi> ner' ſtrook</l>
+                  <l>Such terrour to th' <hi>Aſſyrians;</hi> Ne're took</l>
+                  <pb facs="tcp:62161:19"/>
+                  <l> Such vengeance on 'em, as ſhe ſhall</l>
+                  <l>Under the Conduct of our Admiral,</l>
+                  <l>On all Oppoſers power from <hi>Thames,</hi>
+                     <note place="margin">Ha<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>, <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>me</note> her Throne,</l>
+                  <l>To th' Borders of Sea-faring <hi>Zebulon.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Nor is her ſtate impair'd by this her ſtrength,</l>
+                  <l>But ſtill keeps Company in breadth and length.</l>
+                  <l>An Elegant contexture here you find</l>
+                  <l>Of what may pleaſe the eye, or poſe the mind.</l>
+                  <l>Here's ſtrength and ſtatelineſs together meet,</l>
+                  <l>Fulneſs, and Fineneſs do each other Greet:</l>
+                  <l>Here's all materials convenient,</l>
+                  <l>That either ſerve for uſe, or Ornament;</l>
+                  <l>That fit the Court, or Camp, in Peace, or Warr,</l>
+                  <l>Some fetcht from bordering Territories; ſome from farr.</l>
+               </lg>
+               <lg>
+                  <l>Inſide and outſide too you may behold</l>
+                  <l>Ore-laid, or richly trim'd, with burniſht gold.</l>
+                  <l>Her brazen Entralls through the Decks appear,</l>
+                  <l>While Silken Flags are hovering in the Aire,</l>
+                  <l>Her rough and Oaken ſides are lin'd within</l>
+                  <l>With Velvet ſmoother then the Ermins skin.</l>
+                  <l>Profit and pleaſure meet; for with delight</l>
+                  <l>Things neceſſary do preſent to ſight.</l>
+               </lg>
+               <lg>
+                  <l>I'th Front a well man'd Caſtle takes your ſence</l>
+                  <l>I'th Rear a Court full of Magnificence;</l>
+                  <l>Here ſits in Majeſty Great <hi>Britains</hi> Queen;</l>
+                  <l>And Sons of <hi>Mars</hi> and Thunder there are ſeen.</l>
+                  <pb facs="tcp:62161:19"/>
+                  <l> The Glittering Ladies in her preſence ſtand;</l>
+                  <l>Without appears a rough and Armed Band;</l>
+                  <l>Thoſe do the Needle handle, theſe the Spear,</l>
+                  <l>They have their Muffs, theſe do their Gantlets weare;</l>
+                  <l>Thoſe have their Beads and Bracelets, Pins and Laces,</l>
+                  <l>Theſe deal with Halyards, Cables, Sheats and Braces.</l>
+               </lg>
+               <lg>
+                  <l>Now when a Glorious Journal ſhall be made</l>
+                  <l>Of all the Voyages, Thou <hi>Charles!</hi> haſt had</l>
+                  <l>On the dull waves below; Be it not deny'd</l>
+                  <l>By all Conſents, but thou be ſtellify'd,</l>
+                  <l>And placed in the Spheers above, while we</l>
+                  <l>Admire all wonders, in admiring Thee.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>The Royal <hi>Charles</hi> in her preſent Capacitie.</head>
+               <lg>
+                  <l>MEan time 't muſt be confeſt by one and all,</l>
+                  <l>The Court of <hi>England,</hi> and of <hi>Portugal:</hi>
+                  </l>
+                  <l>The Floating <hi>Agora;</hi> The moving Camp,</l>
+                  <l>That of all Regal Powers does bear the ſtamp;</l>
+                  <l>The Church Epitomiz'd; The State Calcin'd,</l>
+                  <l>The Kingdoms garbl'd, and their Court refin'd;</l>
+                  <l>The Sea-mans Aereopage and Arſenal,</l>
+                  <l>The peoples Pantheon, and their Capitol.</l>
+                  <l>The Army Modell'd, and the Council all,</l>
+                  <l>Or moſt Abſtracted in our Admirall.</l>
+                  <pb facs="tcp:62161:20"/>
+                  <l> What Languages are wanting here? 'Mongſt us</l>
+                  <l>Are ſome of <hi>Athens,</hi> ſome of <hi>Epheſus.</hi>
+                  </l>
+                  <l>Here are trades Manual, and to tell true,</l>
+                  <l>Of ſeverall Regions, and Religions too.</l>
+                  <l>Here's a Reward for good, if good they do,</l>
+                  <l>For bad here's places of Correction too.</l>
+               </lg>
+               <lg>
+                  <l>In her we climb the Billows, work and pray</l>
+                  <l>
+                     <hi>Tritons</hi> auſpicious Conduct through the Sea:</l>
+                  <l>Imploring the ſaf'ſt Paſſage e're was ſeen,</l>
+                  <l>To land our <hi>Cargazoon,</hi> Great <hi>Britains</hi> Queen;</l>
+                  <l>At whoſe Arrival <hi>Myriads</hi> ready ſtand</l>
+                  <l>With Groves of Bayes and Lawrel in their hand,</l>
+                  <l>To attend the Royal Nuptials, and as meet,</l>
+                  <l>To lay them down at her Majeſtick Feet.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>To the Nation in General.</head>
+               <lg>
+                  <l>THus <hi>England</hi> multiplies her Joyes at laſt</l>
+                  <l>
+                     <hi>Without Legitimating By-blowes Paſt.</hi>
+                  </l>
+                  <l>The Rapes and the Adulteries o'th laſt Age,</l>
+                  <l>Being quite proſcrib'd the Verge o'th <hi>Brittiſh</hi> Stage.</l>
+                  <l>The Raviſhers of Scepter, Throne, and Crown,</l>
+                  <l>To th' Gulph of ſhame and vengeance tumbled down:</l>
+                  <l>From Royal and Illuſtrious Branches She</l>
+                  <l>Delivers over to Poſteritie</l>
+                  <l>Hopes of the greateſt Glory,<note place="margin">
+                        <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>en<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                     </note> ere were hurl'd</l>
+                  <l>By Fate or Fortune through th' extenſive World:</l>
+                  <pb facs="tcp:62161:20"/>
+                  <l> Thus Jubilees and Triumphs She puts on,</l>
+                  <l>For th' dayes and years of her Affliction.</l>
+               </lg>
+               <lg>
+                  <l>Rebellion in's own Fatall chain lies bound,</l>
+                  <l>And horrid Treaſon's Groveling on the ground;</l>
+                  <l>Both which with their Infection did fly,</l>
+                  <l>Like to <hi>Aceſta's</hi> Arrows, through the Sky,</l>
+                  <l>And caught fire flying too, as ſoon as gone</l>
+                  <l>I'th upper, middle, and loweſt Region.</l>
+               </lg>
+               <lg>
+                  <l>But now the Bee of <hi>Aſhur,</hi> and the Fly</l>
+                  <l>Of <hi>Egypt,</hi> both are baniſht <hi>Britany,</hi>
+                  </l>
+                  <l>The heads of both thoſe <hi>Hydra's</hi> are lopt off,</l>
+                  <l>While Peace and Plenty at e'm both do laugh.</l>
+                  <l>The Glorious Mothers of ſuch Sons we ſee</l>
+                  <l>As bleſs them both for bleſſing Majeſtie;</l>
+                  <l>And of ſuch Glorious Daughters as ariſe,</l>
+                  <l>And in their Morn and Evening-Sacrifice</l>
+                  <l>Do teach the aſtoniſht World on bended knees</l>
+                  <l>To beg from Heaven <hi>Regala's</hi> like to theſe.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>To the <hi>King</hi> and <hi>Queen.</hi>
+               </head>
+               <l>OH! May Your Royal Sons as <hi>Cedars</hi> ſtand</l>
+               <l>To Govern Yours and many a forraign Land;</l>
+               <l>May the Remainder of Your Progenie</l>
+               <l>Like Polliſht Corners of the Temple be:</l>
+               <l>That <hi>Kings,</hi> and <hi>Queens,</hi> Crowns, Scepters, Diadems,</l>
+               <l>May Flow and Flouriſh from Your Regal Stems,</l>
+               <pb facs="tcp:62161:21"/>
+               <l> To Rule both Eaſt and Weſt;<note place="margin">
+                     <gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ule</note> May <hi>Thules</hi> bounds</l>
+               <l>Be but one Tropick to Your Royal Crowns.</l>
+               <l>Thence may Your Awful Scepters ſtretch as Far</l>
+               <l>As is the Artick from th' Antartick Star,</l>
+               <l>And Crown ſucceeding Ages with the Joyes</l>
+               <l>That to their Children from Your Loins ariſe.</l>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
